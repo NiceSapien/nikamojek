@@ -19,7 +19,7 @@ const config = {
     },
     extend: {
       backgroundImage: {
-        'meme': "url('../meme.gif')",
+        'meme': "url('/nikamojek/meme.gif')",
       },
       keyframes: {
         "accordion-down": {
